@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&display=swap");
+
+h1 {
+  color: rgb(255, 255, 255);
+  font-family: "";
+  text-align: center;
+}
+h2 {
+  color: rgb(214, 121, 146);
+  text-align: center;
+}
+body {
+  background-color: rgb(249, 191, 191);
+  width: 100vw;
+}
+.landing {
+  margin-top: 3px;
+  /* width: 100px; */
+}
+.landing img {
+  width: 100px;
+  length: 2500px;
+}
+.landing img {
+  width: 300px;
+}
+h3 {
+  color: rgb(214, 121, 146);
+  text-align: center;
+}
+.row {
+  display: flex;
+}
+.column {
+  flex: 33.33%;
+  padding: 6px;
+}
+.soup {
+  /* width: 100px; */
+  length: 100px;
+}
